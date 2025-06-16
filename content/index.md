@@ -49,6 +49,6 @@ Or just pick a random note and follow the links!
 ## 📬 Stay Connected
 
 I’d love to hear from you!  
-Feel free to reach out via [Twitter](https://twitter.com/) or [Email](mailto:your@email.com).
+Feel free to reach out via [Twitter](https://x.com/ThatOneBugDude) or [Email](mailto:aditya.das.050701@gmail.com).
 
 Happy wandering 🌿
