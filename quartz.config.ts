@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "MrXcrypt",
+    pageTitle: "ThatOneTallKid",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -35,27 +35,16 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
-        // darkMode: {
-        //   light: "#2b2b2b",
-        //   lightgray: "#393639",
-        //   gray: "#646464",
-        //   darkgray: "#d4d4d4",
-        //   dark: "#F2E5BC",
-        //   secondary: "#928374",
-        //   tertiary: "#a89984",
-        //   highlight: "rgba(143, 159, 169, 0.15)",
-        //   textHighlight: "#7b6e1b",
-        // },
         darkMode: {
-          light: "#373534",        // Darker background for better contrast  
-          lightgray: "#494745",    // Subtle contrast for UI elements  
-          gray: "#8d8d8d",         // Medium gray for secondary elements  
-          darkgray: "#d4d4d4",     // Well-balanced gray for subtext and secondary text  
-          dark: "#fcf2d8",         // Warm beige for main text (readable but not harsh)  
-          secondary: "#feb976",    // Muted golden-yellow for buttons and accents  
-          tertiary: "#bb8a3e",     // Darker gold for subheadings (less bright)  
-          highlight: "rgba(131, 165, 152, 0.3)",  // Soft teal-green for background highlights  
-          textHighlight: "#7b6e1b", // Muted teal-blue for text highlights (clear contrast with white text)  
+          light: "#1a1b26",         // Deep blue-black background
+          lightgray: "#24283b",     // Slightly lighter background for UI elements
+          gray: "#565f89",          // Muted blue-gray for secondary elements
+          darkgray: "#a9b1d6",      // Light blue-gray for subtext
+          dark: "#c0caf5",          // Soft light blue for main text
+          secondary: "#7aa2f7",     // Bright blue for buttons and accents
+          tertiary: "#bb9af7",      // Soft purple for subheadings
+          highlight: "rgba(122, 162, 247, 0.15)",  // Subtle blue highlight
+          textHighlight: "#7dcfff"  // Light blue text highlight
         }
       },
     },

@@ -90,11 +90,12 @@ export default ((userOpts?: Partial<Options>) => {
           type="button"
           id="explorer"
           data-behavior={opts.folderClickBehavior}
-          data-collapsed={opts.folderDefaultState}
+          data-collapsed="true"
           data-savestate={opts.useSavedState}
           data-tree={jsonTree}
           aria-controls="explorer-content"
-          aria-expanded={opts.folderDefaultState === "open"}
+          aria-expanded="false"
+          class="collapsed"
         >
           <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
           <svg
@@ -112,7 +113,7 @@ export default ((userOpts?: Partial<Options>) => {
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
         </button>
-        <div id="explorer-content">
+        <div id="explorer-content" class="collapsed">
           <ul class="overflow" id="explorer-ul">
             <ExplorerNode node={fileTree} opts={opts} fileData={fileData} />
             <li id="explorer-end" />

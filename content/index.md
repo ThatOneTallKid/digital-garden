@@ -1,20 +1,54 @@
 ---
-title: My Cryptic Grove 🌱
+title: 🌱 Welcome to My Digital Garden
 ---
-![[mrxcrypt-in-garden-1.jpg]]
 
-Hello mate! This is me, MrXcrypt, and welcome to my digital garden.
 
-This space is a curated archive of my study notes, research, and explorations in Cybersecurity. I also include my medium blogs here which are free in medium. You can view my medium blogs over [here](https://medium.com/@misterxcrypt).
+Hello! I’m Aditya, and this is my **digital garden** — a living collection of notes, ideas, and musings that grow and change over time.
+![[ChatGPT Image Jun 15, 2025, 03_24_52 PM.png]]
+Unlike a traditional blog, this garden is **always a work in progress**. Some notes are well-developed, some are just seeds of thoughts. Feel free to explore, get lost, and connect the dots.
 
-It’s a growing repository where I document what I learn, break things apart, and put them back together—sometimes better, sometimes just to understand them deeper.
+---
+# 🌱 About Me
 
-My interests revolve around:
+I’m **Aditya Das**, a curious developer, occasional team leader, avid football fan, and unapologetic sneakerhead.
 
-- Cyber Threat Intelligence – Tracking threat actors, scams, and financial fraud.
-- OSINT & Social Engineering – Gathering intelligence from the wild.
-- Cybercrime Research – Understanding fraud at scale.
+For the past **2 years at [Increff](https://www.increff.com/)**, I’ve been building and scaling high-performance systems that power large-scale retail operations. Increff is a trusted retail SaaS company helping global fashion brands and marketplaces manage inventory smartly and fulfill orders efficiently — and being part of that mission has taught me a ton about engineering for scale and reliability.
 
-This digital garden is my evolving map of knowledge—scattered, structured, and always growing. Feel free to explore! 🚀
+Here in my digital garden, I’m planting and pruning ideas I pick up along the way — from **system design insights** to lessons in **leading projects and teams**, to the occasional note on football tactics or my ever-growing sneaker wishlist.
 
-An Easter egg 🥚. I hid my poetry self somewhere in this website 👀. 
+I believe learning should be visible and messy — so feel free to wander through my half-finished thoughts, follow the connections, and maybe leave me a note if something resonates.
+
+---
+
+**Off the grid:** If I’m not coding or writing here, I’m probably chasing a football or hunting down my next pair of kicks.
+
+🌿 _Welcome to my garden. Happy exploring!_
+
+---
+
+## ✨ What You'll Find Here
+
+- Evergreen notes on topics I’m curious about
+- Work-in-progress thoughts and half-baked ideas
+- Connections between notes through backlinks and tags
+- Occasional essays or deep dives
+
+---
+
+## 🚀 Where to Start
+
+Here are a few interesting starting points:
+- [[Kafka]]
+- [[🧾 Log-Based vs Queue-Based Messaging Systems]]
+- [[Multi-Threading]]
+
+Or just pick a random note and follow the links!
+
+---
+
+## 📬 Stay Connected
+
+I’d love to hear from you!  
+Feel free to reach out via [Twitter](https://twitter.com/) or [Email](mailto:your@email.com).
+
+Happy wandering 🌿
