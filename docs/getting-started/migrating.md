@@ -226,3 +226,17 @@ If you're coming from Quartz 3 (the Hugo-based version), follow the same steps a
   - Folder descriptions go under `content/<folder-name>/index.md`
   - Tag descriptions go under `content/tags/<tag-name>.md`
 - Custom CSS may need updates if you depended on specific HTML hierarchy or class names from Quartz 3.
+
+### Graph View
+
+If you relied on the Quartz 3 graph view, note that it is now configured through the [[graph view|Graph View]] feature and the Graph plugin. Review the feature docs and update any custom graph styling or layout settings you had previously.
+
+### Backlinks
+
+Backlinks are now provided by the Backlinks plugin and can be placed in your layout the same way as other features. If you had custom backlinks behavior in Quartz 3, update your plugin configuration and layout to match the new plugin-based structure.
+
+## Additional Links
+
+- [[index|Home]]
+- [[index|Getting Started]]
+- [[migrating|Migrating to Quartz 5]]
