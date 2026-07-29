@@ -2,7 +2,8 @@
 "Posted on:": 27/07/2026
 ---
 #designpatterns #architecture
-A month and a half ago, my team at Increff had to answer a deceptively simple question:
+
+A month and a half ago, my team had to answer a deceptively simple question:
 **Should every carrier integration be its own microservice, or should all of them live behind a single Adapter interface?**
 At first glance the answer looked obvious. After all, we’d built dozens of marketplace integrations before.
 We were wrong.
