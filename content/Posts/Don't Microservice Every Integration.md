@@ -1,7 +1,11 @@
 ---
-"Posted on:": 27/07/2026
+title: Don't Microservice Every Integration
+description: A practical take on when adapters are better than splitting every integration into its own service.
+date: 2026-07-27
+tags:
+  - designpatterns
+  - architecture
 ---
-#designpatterns #architecture
 
 A month and a half ago, my team had to answer a deceptively simple question:
 **Should every carrier integration be its own microservice, or should all of them live behind a single Adapter interface?**

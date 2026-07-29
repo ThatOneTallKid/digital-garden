@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Aditya Das
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: https://thatonetallkid.github.io/digital-garden/
   ignorePatterns:
     - private
     - templates
@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Inter
+      body: Inter
+      code: JetBrains Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f8f7f3"
+        lightgray: "#e8e2d8"
+        gray: "#b7ab96"
+        darkgray: "#4b443d"
+        dark: "#2b2520"
+        secondary: "#7a5c3d"
+        tertiary: "#9d7b4b"
+        highlight: rgba(125, 92, 61, 0.12)
+        textHighlight: "#f7d98a"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#07111f"
+        lightgray: "#14243a"
+        gray: "#4f6985"
+        darkgray: "#e8eef8"
+        dark: "#f5f7fb"
+        secondary: "#7dd3fc"
+        tertiary: "#8b5cf6"
+        highlight: rgba(125, 211, 252, 0.18)
+        textHighlight: "#1d4ed8"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true

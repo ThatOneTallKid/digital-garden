@@ -1,7 +1,11 @@
 ---
-"Posted on:": 27/07/2026
+title: Five Mental Traps That Quietly Control Your Life
+description: A short reflection on five common cognitive biases that affect everyday decisions.
+date: 2026-07-27
+tags:
+  - psychology
+  - deep_thinking
 ---
-#psychology #deep_thinking
 
 Every day, your brain makes thousands of decisions. To make those decisions quickly, it relies on mental shortcuts known as **cognitive biases**. These shortcuts are useful—they save time and mental effort—but they can also distort reality and lead to poor decisions. Here are five of the most common biases worth recognizing.
 
